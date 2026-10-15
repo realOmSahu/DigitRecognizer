@@ -19,7 +19,7 @@ Ensure you have the following packages installed with the specified versions:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/ZephyrusBlaze/DigitRecognizer.git
+   git clone https://github.com/realOmSahu/DigitRecognizer.git
    ```
 
 2. **Install required packages**:
@@ -44,7 +44,7 @@ Ensure you have the following packages installed with the specified versions:
 
 🌐 **Alternatively, use the pre-trained model**:
 
-   Access the model at [https://ZephyrusBlaze.github.io/DigitRecognizer/](https://ZephyrusBlaze.github.io/DigitRecognizer/).
+   Access the model at [https://realOmSahu.github.io/DigitRecognizer/](https://realOmSahu.github.io/DigitRecognizer/).
 
 ## Model Training 🧠
 
